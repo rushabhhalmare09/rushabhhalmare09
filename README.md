@@ -1,7 +1,7 @@
 - 👋 Hi, I’m RUSHABH HALMARE
-- 👀 I’m interested in FULL STACK DEVELOPMENT
-- 🌱 I’m currently learning MERN STACK
-- 💞️ I’m looking to collaborate on REACT 
+- 👀 I’m interested in Data Scientist/ Data Analyst
+- 🌱 I’m currently learning Tableau
+- 💞️ I’m looking to collaborate on Tableau
 - 📫 How to reach me         LinkedIn - https://www.linkedin.com/in/rushabhhalmare09/
                               EMAIL - rushabhhalmare09@gmail.com
 <!---
