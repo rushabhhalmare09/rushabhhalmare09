@@ -1,6 +1,6 @@
 - 👋 Hi, I’m RUSHABH HALMARE
 - 👀 I’m interested in Data Scientist/ Data Analyst
-- 🌱 I’m currently learning Stats
+- 🌱 I’m currently learning Machine Learning & Python
 - 💞️ I’m looking to collaborate on Data Analysis or Data Scientist Project
 - 📫 How to reach me         LinkedIn - https://www.linkedin.com/in/rushabhhalmare09/
                               
